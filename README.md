@@ -2,7 +2,6 @@
 
 In this guide, you'll learn how to create a range of buttons, focusing on both their design and functionality. The objective is to craft 10 to 15 different button variations, allowing you to demonstrate your creativity and skills in front-end development. This task is flexible in terms of difficulty; you can choose to create a mix of simple, intermediate, and advanced buttons based on your comfort and expertise level. 
 
-
 <br/>
 <p align="center">
     <img width="80%" src="/536B9509-3495-492F-BEF6-82BCFA1C8465_1_201_a.jpeg">
@@ -12,12 +11,9 @@ In this guide, you'll learn how to create a range of buttons, focusing on both t
 
 This project is aimed at solidifying your understanding of fundamental web development concepts by applying them in a project-based scenario. To get started:
 
-1. **Clone this repository** to your local machine to begin working on your version of Booktory.
+1. **Clone this repository** to your local machine to begin working on your version of Forty exploring properties.
 2. **Set up your environment** by ensuring you have a modern web browser and a code editor installed.
 
-## ❤️&nbsp; Contributing to the Project
-
-Booktory is a basic project designed for educational purposes. Contributions are welcome, especially from students and educators who wish to improve the project or suggest new features. Whether you're fixing bugs, enhancing the application, or improving documentation, your input is valuable!
 
 ## 📫&nbsp; Support and Questions
 
