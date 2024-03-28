@@ -32,3 +32,4 @@ This project involves creating a calculator using HTML, CSS, and JavaScript. You
 - Ensure your project is complete and thoroughly tested.
 - Include a README file with an overview of your project, the steps you took, and any resources you used or found helpful.
 - Submit your project by uploading it to a GitHub repository and sharing the link to your repo.
+git 

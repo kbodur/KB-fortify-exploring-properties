@@ -1,4 +1,4 @@
-# KB-fortify-exploring-properties# Creating Buttons
+
 
 In this guide, you'll learn how to create a range of buttons, focusing on both their design and functionality. The objective is to craft 10 to 15 different button variations, allowing you to demonstrate your creativity and skills in front-end development. This task is flexible in terms of difficulty; you can choose to create a mix of simple, intermediate, and advanced buttons based on your comfort and expertise level. 
 
