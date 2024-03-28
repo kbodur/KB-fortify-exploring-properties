@@ -48,7 +48,7 @@ Knowledge in HTML, CSS, and JavaScript is essential as you'll be working extensi
 
 <br/>
 <p align="center">
-    <img width="80%" src="/Image 3-27-24 at 9.31 PM.jpgI">
+    <img width="80%" src="/Image 3-27-24 at 9.31 PM.jpg">
 </p>
 <br/>
 5. **Portfolio Readiness**: The calculator project serves as an opportunity to showcase your ability to apply your designs in a real-world application. Strive to make the calculator both user-friendly and well designed, ensuring it reflects your capabilities as a web developer.
